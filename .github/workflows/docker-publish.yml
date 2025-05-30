@@ -16,7 +16,9 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Build app
-        run: npx expo export --platform web
+        run: |
+          npm install
+          npx expo export -p web
 
       - name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v3
