@@ -9,7 +9,7 @@ export default function Index() {
                 style={styles.avatar}
             />
             <View style={styles.content}>
-                <Text style={styles.text}>Angus Clinch</Text>
+                <Text style={styles.title}>Angus Clinch</Text>
                 <Text style={styles.text}>Full Stack Engineer, UK</Text>
             </View>
             <View style={styles.linksRow}>
@@ -38,12 +38,18 @@ const styles = StyleSheet.create({
         backgroundColor: '#121508',
     },
     avatar: {
-        width: '20%',
-        height: '20%',
+        width: 'auto',
+        height: '25%',
         aspectRatio: 1,
         borderRadius: 9999,
         borderWidth: 4,
-        borderColor: '#fff',
+        borderColor: '#192006',
+    },
+    title: {
+        fontSize: 20,
+        color: '#ffffff',
+        fontWeight: 'bold',
+        marginTop: 16,
     },
     content: {
         alignItems: 'center',
