@@ -1,6 +1,6 @@
 # Homepage
 
-This repository contains the source code for my personal website. It's built using Expo and React Native, which I'm learning to use for web development. The site is simple and only points to my GitHub, LinkedIn and itself at the moment. The site runs on my own servers, has strict TLS enforced and is cached using Cloudflare.
+This repository contains the source code for my personal website. It's built using Expo and React Native, which I'm learning to use for web development. The site is simple and points to my GitHub, LinkedIn and itself at the moment. The site runs on my own servers, has strict TLS enforced and is cached using Cloudflare.
 
 I hope to expand the site in the future as time permits. These are some of the features I hope to add:
 
