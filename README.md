@@ -9,6 +9,6 @@ I hope to expand the site in the future as time permits. These are some of the f
 - Uptime and status of my servers
 - Contact form
 
-You can find the live version of the site at [https://www.clincha.co.uk](https://www.clincha.co.uk).
-
 ![website-screenshot.png](website-screenshot.png)
+
+You can find the live version of the site at [https://www.clincha.co.uk](https://www.clincha.co.uk).
